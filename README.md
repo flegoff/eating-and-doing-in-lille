@@ -15,7 +15,7 @@ Art
 Tea, Coffee, Cakes (afternoons)
 -------------------------------
 
-* Elizabeth's - Free WiFi, lots of space - old town - http://www.yelp.fr/biz/elizabeths-lille
+* Elizabeth's - Free WiFi, wonderful cakes - old town - http://www.yelp.fr/biz/elizabeths-lille
 * Chez Leontine - Free WiFi, lots of space - Solferino - http://www.yelp.com/biz/chez-l%C3%A9ontine-lille
 
 Drinking (evening)
