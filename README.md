@@ -11,20 +11,21 @@ Art
 * Musée des beaux arts - Metro 1 / République - http://www.pba-lille.fr/spip.php?rubrique31
 * LAM (modern art) - Metro+bus - http://www.musee-lam.fr/gb/
 
+## Drinking
 
-Tea, Coffee, Cakes (afternoons)
--------------------------------
+### Tea, Coffee, Cakes (afternoons)
 
-* Elizabeth's - Free WiFi, wonderful cakes - old town - http://www.yelp.fr/biz/elizabeths-lille
-* Chez Leontine - Free WiFi, lots of space - Solferino - http://www.yelp.com/biz/chez-l%C3%A9ontine-lille
+* Elizabeth's - Free WiFi, wonderful cakes - old town - http://www.yelp.com/biz/elizabeths-lille
+* Chez Leontine - Free WiFi, lots of space - solferino - http://www.yelp.com/biz/chez-l%C3%A9ontine-lille
+* Café Libres - WiFi and books - old town - http://www.yelp.com/biz/le-caf%C3%A9-livres-lille-2
 
-Drinking (evening)
-------------------
+### Drinking (evening)
 
 * Kremlin (vodka..) - old town - http://www.yelp.com/biz/le-kremlin-lille
 * La Capsule (one of the best bar for beers - IN THE WORLD) - old town - http://www.yelp.com/biz/la-capsule-lille
 * L'illustration - http://www.yelp.com/biz/l-illustration-lille
 * Gare Saint Sauveur - http://www.yelp.com/biz/la-gare-saint-sauveur-lille
+
 
 Eating
 ------
