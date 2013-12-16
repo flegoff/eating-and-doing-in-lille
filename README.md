@@ -28,6 +28,7 @@ Art
 * TamTam (cocktail) - http://www.yelp.com/biz/tam-tam-lille
 * Le Farafina (rhum..) http://www.yelp.com/biz/le-farafina-lille
 * La Part des Anges (wine) - old town - http://www.yelp.com/biz/la-part-des-anges-lille
+* Au fût et à mesure (pour your own beers)- Lille Solférino - http://www.aufutetamesure.fr
 
 
 Eating
@@ -42,13 +43,14 @@ Eating
 * Akira (japanese) - center - http://www.yelp.com/biz/akira-lille
 * Be Yourself (bagels, salads) - Lots of space, free WiFi, good for working a little after the lunch. - center - http://www.yelp.com/biz/be-yourself-lille
 * Persepolis (iranian) - http://www.yelp.com/biz/persepolis-lille
-
+* Fresh Burritos (Mexican food)- Lille centre, Lille Solférino - http://www.freshburritos.fr/
 
 ### Other
 
 * Meert (expensive pastries) - old town - http://www.yelp.com/biz/meert-tradition-lille
 * Boulangerie (pastries & bread  & local sweets) - old town - http://www.yelp.com/biz/val%C3%A9rie-et-rapha%C3%ABl-brier-lille-2
 * Kokoa (waffles & hot chocolate on hand-made ice cream) - old town - http://www.yelp.com/biz/kokoa-lille
+* Chez Greg // Cantine mobile (Food Trucks, Burgers & Bagels) - Check Facebook - https://www.facebook.com/pages/Chez-Greg-Cantine-mobile/437310646338601
 
 
 Moving around Lille
