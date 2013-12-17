@@ -52,6 +52,12 @@ Eating
 * Kokoa (waffles & hot chocolate on hand-made ice cream) - old town - http://www.yelp.com/biz/kokoa-lille
 * Chez Greg // Cantine mobile (Food Trucks, Burgers & Bagels) - Check Facebook - https://www.facebook.com/pages/Chez-Greg-Cantine-mobile/437310646338601
 
+CoWorking
+-------
+
+* Mutualab (old name CoworkingLille) - http://www.mutualab.org/ 
+* La Coroutine - http://www.lacoroutine.org/  
+
 
 Moving around Lille
 -------------------
