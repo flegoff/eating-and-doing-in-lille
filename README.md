@@ -29,6 +29,7 @@ Art
 * Le Farafina (rhum..) http://www.yelp.com/biz/le-farafina-lille
 * La Part des Anges (wine) - old town - http://www.yelp.com/biz/la-part-des-anges-lille
 * Au fût et à mesure (pour your own beers)- Lille Solférino - http://www.aufutetamesure.fr
+* Mac Ewan's (Best Belgium and World Beer choice in town, at very fair price) - Lille Solférino - https://plus.google.com/109469309645039715774/about?gl=fr&hl=fr
 
 
 Eating
@@ -44,6 +45,8 @@ Eating
 * Be Yourself (bagels, salads) - Lots of space, free WiFi, good for working a little after the lunch. - center - http://www.yelp.com/biz/be-yourself-lille
 * Persepolis (iranian) - http://www.yelp.com/biz/persepolis-lille
 * Fresh Burritos (Mexican food)- Lille centre, Lille Solférino - http://www.freshburritos.fr/
+* L'Arrière Pays (French Food) - Old Lille - http://www.arriere-pays.com/
+* L'Gaiette (say "eL Kayel") (Flemish Food) - Lille Center, Massena - http://www.lgaiette.fr/
 
 ### Other
 
