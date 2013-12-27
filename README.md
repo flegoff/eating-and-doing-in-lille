@@ -5,8 +5,7 @@ Quick and dirty directory of cool things to do in and around Lille.
 
 Please edit and submit a pull request if you would like to feature something here !
 
-Art
----
+## Art
 
 * Musée des beaux arts - Metro 1 / République - http://www.pba-lille.fr/spip.php?rubrique31
 * LAM (modern art) - Metro+bus - http://www.musee-lam.fr/gb/
@@ -28,12 +27,11 @@ Art
 * TamTam (cocktail) - http://www.yelp.com/biz/tam-tam-lille
 * Le Farafina (rhum..) http://www.yelp.com/biz/le-farafina-lille
 * La Part des Anges (wine) - old town - http://www.yelp.com/biz/la-part-des-anges-lille
-* Au fût et à mesure (pour your own beers)- Lille Solférino - http://www.aufutetamesure.fr
-* Mac Ewan's (Best Belgium and World Beer choice in town, at very fair price) - Lille Solférino - https://plus.google.com/109469309645039715774/about?gl=fr&hl=fr
+* Au fût et à mesure (pour your beer)- Lille Solférino - http://www.aufutetamesure.fr
+* Mac Ewan's (beers — belgian and imports) - Lille Solférino - https://plus.google.com/109469309645039715774/about?gl=fr&hl=fr
 
 
-Eating
-------
+## Eating
 
 ### Restaurants 
 
@@ -44,26 +42,25 @@ Eating
 * Akira (japanese) - center - http://www.yelp.com/biz/akira-lille
 * Be Yourself (bagels, salads) - Lots of space, free WiFi, good for working a little after the lunch. - center - http://www.yelp.com/biz/be-yourself-lille
 * Persepolis (iranian) - http://www.yelp.com/biz/persepolis-lille
-* Fresh Burritos (Mexican food)- Lille centre, Lille Solférino - http://www.freshburritos.fr/
-* L'Arrière Pays (French Food) - Old Lille - http://www.arriere-pays.com/
-* L'Gaiette (say "eL Kayel") (Flemish Food) - Lille Center, Massena - http://www.lgaiette.fr/
+* Fresh Burritos (mexican food)- Lille centre, Lille Solférino - http://www.freshburritos.fr/
+* L'Arrière Pays (french food) - Old Lille - http://www.arriere-pays.com/
+* L'Gaiette (flemish food) - Lille Center, Massena - http://www.lgaiette.fr/
 
 ### Other
 
 * Meert (expensive pastries) - old town - http://www.yelp.com/biz/meert-tradition-lille
 * Boulangerie (pastries & bread  & local sweets) - old town - http://www.yelp.com/biz/val%C3%A9rie-et-rapha%C3%ABl-brier-lille-2
 * Kokoa (waffles & hot chocolate on hand-made ice cream) - old town - http://www.yelp.com/biz/kokoa-lille
-* Chez Greg // Cantine mobile (Food Trucks, Burgers & Bagels) - Check Facebook - https://www.facebook.com/pages/Chez-Greg-Cantine-mobile/437310646338601
+* Chez Greg — Cantine mobile (food truck) - mobile - https://www.facebook.com/pages/Chez-Greg-Cantine-mobile/437310646338601
 
-CoWorking
--------
 
-* Mutualab (old name CoworkingLille) - http://www.mutualab.org/ 
+## CoWorking
+
+* Mutualab (used to be known as CoworkingLille) - http://www.mutualab.org/ 
 * La Coroutine - http://www.lacoroutine.org/  
 
 
-Moving around Lille
--------------------
+## Travel around Lille
 
 * Ypres (Belgium - by train or car) - http://en.wikipedia.org/wiki/Ypres
 * Ghent (Belgium - by car) - http://en.wikipedia.org/wiki/Ghent
@@ -72,4 +69,4 @@ Moving around Lille
 * Bruxelles (use the train)
 * London (use the train)
 
-Book your train tickets from the whole world using http://www.raileurope.com !
+Book your train tickets from the whole world using http://www.raileurope.com or (better) http://www.capitainetrain.com !
