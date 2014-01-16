@@ -15,8 +15,9 @@ Please edit and submit a pull request if you would like to feature something her
 ### Tea, Coffee, Cakes (afternoons)
 
 * Elizabeth's - Free WiFi, wonderful cakes - old town - http://www.yelp.com/biz/elizabeths-lille
-* Chez Leontine - Free WiFi, lots of space - solferino - http://www.yelp.com/biz/chez-l%C3%A9ontine-lille
+* Chez Leontine - Free WiFi, wonderful cakes (2) - solferino - http://www.yelp.com/biz/chez-l%C3%A9ontine-lille
 * Café Livres - WiFi and books - old town - http://www.yelp.com/biz/le-caf%C3%A9-livres-lille-2
+* Coffee Makers - town center - http://www.yelp.com/biz/coffee-makers-lille
 
 ### Drinking (evening)
 
@@ -28,6 +29,7 @@ Please edit and submit a pull request if you would like to feature something her
 * Le Farafina (rhum..) http://www.yelp.com/biz/le-farafina-lille
 * La Part des Anges (wine) - old town - http://www.yelp.com/biz/la-part-des-anges-lille
 * Au fût et à mesure (pour your beer)- Lille Solférino - http://www.aufutetamesure.fr
+* Gastama (beers) - wifi - old town - http://www.yelp.com/biz/gastama-lille
 * Mac Ewan's (beers — belgian and imports) - Lille Solférino - https://plus.google.com/109469309645039715774/about?gl=fr&hl=fr
 
 
@@ -38,6 +40,7 @@ Please edit and submit a pull request if you would like to feature something her
 * Au vieux de la vieille (local flemish foods) - old town - http://www.yelp.com/biz/au-vieux-de-la-vieille-lille
 * Estaminet la vieille (the same) - old town - http://www.yelp.com/biz/estaminet-chez-la-vieille-lille
 * Berliner (burgers & wok, good quality/price ratio) - old town - http://www.yelp.com/biz/berliner-lille
+* Le Fossile (best steak with shallots in lille) - center - http://www.yelp.com/biz/le-fossile-lille
 * Le Broc' (cheese based food) - center - http://www.yelp.com/biz/le-broc-lille
 * Akira (japanese) - center - http://www.yelp.com/biz/akira-lille
 * Be Yourself (bagels, salads) - Lots of space, free WiFi, good for working a little after the lunch. - center - http://www.yelp.com/biz/be-yourself-lille
