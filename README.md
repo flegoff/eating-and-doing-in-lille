@@ -14,6 +14,7 @@ Please edit and submit a pull request if you would like to feature something her
 
 ### Tea, Coffee, Cakes (afternoons)
 
+* Café Meo — Our dear Coffee1337 partner - center - http://www.yelp.fr/biz/m%C3%A9o-lille-4
 * Elizabeth's - Free WiFi, wonderful cakes - old town - http://www.yelp.com/biz/elizabeths-lille
 * Chez Leontine - Free WiFi, wonderful cakes (2) - solferino - http://www.yelp.com/biz/chez-l%C3%A9ontine-lille
 * Café Livres - WiFi and books - old town - http://www.yelp.com/biz/le-caf%C3%A9-livres-lille-2
