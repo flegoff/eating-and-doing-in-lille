@@ -49,6 +49,7 @@ Please edit and submit a pull request if you would like to feature something her
 * Fresh Burritos (mexican food)- Lille centre, Lille Solférino - http://www.freshburritos.fr/
 * L'Arrière Pays (french food) - Old Lille - http://www.arriere-pays.com/
 * L'Gaiette (flemish food) - Lille Center, Massena - http://www.lgaiette.fr/
+* Liberch'ti (huge pizza and salads) - center - http://www.yelp.fr/map/liberch-ti-lille
 
 ### Other
 
