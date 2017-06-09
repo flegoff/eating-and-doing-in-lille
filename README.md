@@ -7,7 +7,7 @@ Please edit and submit a pull request if you would like to feature something her
 
 ## Art & Alt
 
-* Musée des beaux arts - Metro 1 / République - http://www.pba-lille.fr/spip.php?rubrique31
+* Musée des beaux arts - Metro 1 / République - http://www.pba-lille.fr/
 * LAM (modern art) - Metro+bus / Villeneuve d'Ascq — http://www.musee-lam.fr/gb/
 * La Lison (book store) — Solferino — https://www.librairielalison.fr/
 
