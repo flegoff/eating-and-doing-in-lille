@@ -42,10 +42,8 @@ Please edit and submit a pull request if you would like to feature something her
 * Au vieux de la vieille (local flemish foods) - old town - http://www.yelp.com/biz/au-vieux-de-la-vieille-lille
 * Estaminet la vieille (the same) - old town - http://www.yelp.com/biz/estaminet-chez-la-vieille-lille
 * Le Fossile (best steak with shallots in lille) - center - http://www.yelp.com/biz/le-fossile-lille
-* 
 * Le Broc' (cheese based food) - center - http://www.yelp.com/biz/le-broc-lille
 * Akira (japanese) - center - http://www.yelp.com/biz/akira-lille
-* Be Yourself (bagels, salads) - Lots of space, free WiFi, good for working a little after the lunch. - center - http://www.yelp.com/biz/be-yourself-lille
 * Persepolis (iranian) - http://www.yelp.com/biz/persepolis-lille
 * L'Arrière Pays (french food) - Old Lille - http://www.arriere-pays.com/
 * L'Gaiette (flemish food) - Lille Center, Massena - http://www.lgaiette.fr/
